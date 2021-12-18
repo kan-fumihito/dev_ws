@@ -1,0 +1,6 @@
+[submodule "src/wasm_vm_node"]
+	path = src/wasm_vm_node
+	url = git@github.com:kan-fumihito/wasm_vm_node.git
+[submodule "src/examples"]
+	path = src/examples
+	url = git@github.com:kan-fumihito/examples.git
