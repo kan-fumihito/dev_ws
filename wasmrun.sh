@@ -26,5 +26,6 @@ do
         echo $TIME >> "wasm_${PREFIX}.log"
     fi
 done
+echo $PREFIX
 done
 done

@@ -22,9 +22,10 @@ do
         echo $TIME
     else
         step=`expr $step + 1`
-        echo $TIME >> "native_${PREFIX}.log"
+	echo $TIME >> "native_${PREFIX}.log"
     fi
 done
+echo $PREFIX
 done
 done
 
