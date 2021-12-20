@@ -2,6 +2,8 @@
 build/
 install/
 log/
+src/wasm_vm_node/*
+src/examples/*
 *.log
 *.img
 
